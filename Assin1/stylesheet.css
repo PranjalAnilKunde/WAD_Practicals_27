@@ -1,0 +1,238 @@
+*{
+    font-family: 'Bree Serif', serif;
+    margin: 0%;
+    transition: all 2s;
+}
+
+html{
+    scroll-behavior: smooth;
+    font-size: 1rem;
+    color: white;
+}
+
+/* Navigation Bar */
+#navbar {
+    display: flex;
+    align-items: center;
+    font-size: 10px;
+    background-color: rgba(0, 0, 0, 0.648); 
+    border-radius: 50pc;
+    width: 100%;
+    position:fixed;
+}
+
+#navbar div img{
+    border-radius: 200pc;
+    height: 5rem;
+    width: 5rem;
+}
+#navbar div a{
+    margin: 2rem;
+    overflow: hidden;
+    margin-bottom: 5px;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 4px;
+    border-radius: 20px;
+    color: white;
+}
+#navbar a:hover{
+    color: black;
+    background-color: rgba(255, 255, 255, 0.827);
+}
+
+
+/* Home section */
+#home{
+    display: flex;
+    flex-direction: column;
+    padding:3px 200px;
+    height: 550px;
+    justify-content: center;
+    align-items: center;
+}
+#home::before{ 
+    content: "";
+    position: absolute;
+    position:fixed;
+    background: url('Images/bg4.webp') no-repeat center center/cover;
+    height: 625px;
+    top:0px;
+    left:0px;
+    width: 100%;
+    z-index: -1;
+    /* opacity: .8; */
+}
+
+
+ 
+#home h1{
+    color:white;
+    text-shadow: 4px 2px red;
+    font-size: 3rem;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+}
+#home p{
+    color:red;
+    text-shadow: 2px 0px rgb(31, 16, 16);
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Bree Serif', serif;
+}
+
+/* Services Section */
+
+#Services{
+    display: flex;
+    height: 450px;
+    justify-content: center;
+    align-items: center;
+   
+}
+#Services::before{
+    content: " ";
+    position: relative;
+    height: 20pc;
+}
+#Services div img{
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+}
+#Services div{
+    border: solid white 2px;
+    width: 400px;
+    height: 300px;
+   margin-left: 2rem;
+}
+#Services div p{
+    text-align: center;
+    padding: 1rem;
+}
+#Services1 h1{
+    text-align: center;
+    text-shadow: 1px 0rem red;
+    font-size: 2rem;
+    margin-top: 8rem;
+}
+#Services div:hover{
+    transform: scale(1.1);
+
+}
+
+
+/* Our team */
+#OurTeam::before{
+   
+        content: "";
+        position: relative;
+        background: url('Images/bg1.webp') no-repeat center center/cover;     
+        height: 625px;
+        width: 100%;
+        z-index: -1;
+        opacity:0.9;
+
+    
+}
+#OurTeam{
+    justify-content: center;
+    align-items: center;
+    
+}
+#OurTeam div h1{
+    text-align: center;
+    text-shadow: 1px 0rem red;
+    font-size: 2rem;
+    margin-top: 9rem;
+}
+
+#OurTeam div img{
+    align-items: center;
+    margin: 2rem;
+    width: 25%;
+    
+}
+#OurTeam div p{
+    text-align: center;
+    font-size: large;
+    padding: 1rem;
+}
+
+/* Cantact us */
+#ContactUs::before{
+        content: "";
+    position: absolute;
+    background: url('Images/contact.webp') no-repeat center center/cover;  
+    height: 625px;
+    width: 100%;
+    z-index: -1;
+    opacity:1.5;
+}
+#ContactUs div p{
+    text-align: center;
+    margin-top:3rem ;
+    font-size: 2rem;
+}
+#ContactUs div p a{
+    margin-top:2rem ;
+}
+#ContactUs .contact h1{
+    text-align: center;
+    text-shadow: 1px 0rem red;
+    font-size: 2rem;
+    margin-top: 9rem;
+    margin-bottom: 1rem;
+}
+#ContactUs div div:hover{
+    transform: scale(1.1);
+}
+
+
+
+/* Address */
+#ContactUs #company p{
+    text-align: center;
+    border: solid white 2px;
+    width: 50%;
+    font-size: 20px;
+    margin-top: 3rem;
+    
+}
+#company::before{
+    content: "";
+    position: absolute;
+    height: 625px;
+    width: 100%;
+    z-index: -1;
+    
+}
+#company{
+    margin-top: 9rem;
+}
+
+/* Utility class */
+.btn{
+    padding: 6px 20px;
+    border: 2px solid white;
+     background-color: rgb(169, 12, 12);
+   
+    margin: 17px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    cursor:pointer;
+   
+}
+.btn a{
+    text-decoration: none;
+     color: white;
+}
+.btn:hover{
+   background-color: rgb(57, 1, 1);
+   color: aliceblue;
+   transform: scale(1.5);
+}
+.center{
+    text-align: center;
+}
