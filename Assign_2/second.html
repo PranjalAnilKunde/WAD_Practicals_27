@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Second</title>
+    <script>
+        function disp(){
+            /*let text = localStorage.getItem("JSON");
+            let obje = JSON.parse(text);
+            document.getElementById("ab").rows[1].cells[0].innerHTML = obje.name;
+            document.getElementById("ab").rows[1].cells[1].innerHTML = obje.email;
+            document.getElementById("ab").rows[1].cells[2].innerHTML = obje.number;*/
+            document.getElementById("ab").rows[1].cells[0].innerHTML = localStorage.name;
+            document.getElementById("ab").rows[1].cells[1].innerHTML = localStorage.mail;
+            document.getElementById("ab").rows[1].cells[2].innerHTML = localStorage.num;
+        }
+    </script>
+    <style>
+        .tab{
+            border-style: double;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <button onclick="disp()">Display</button>
+    <table id="ab" class="tab" style="border: 2px; border-style: solid; border-color: brown;">
+        <tr>
+            <th>NAME</th>
+            <th>E-MAIL</th>
+            <th>PHONE NO.</th>
+        </tr>
+        <tr>
+            <td style="border: 2px; border-radius: 4px; border-style: solid;"></td>
+            <td style="border: 2px; border-radius: 4px; border-style: solid;"></td>
+            <td style="border: 2px; border-radius: 4px; border-style: solid;"></td>
+        </tr>
+    </table>
+</body>
+</html>
