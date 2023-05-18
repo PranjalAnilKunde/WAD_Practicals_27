@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 10773,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Finbold.com"
+            },
+            "author": "Ana Nicenko",
+            "title": "ChatGPT alternative ‘TruthGPT’ launches in response to Elon Musk’s tweet",
+            "description": "After Twitter (NYSE: TWTR) CEO Elon Musk jokingly tweeted that “what we need is TruthGPT” as a jab at the … Continued\nThe post ChatGPT alternative ‘TruthGPT’ launches in response to Elon Musk’s tweet appeared first on Finbold.",
+            "url": "https://finbold.com/chatgpt-alternative-truthgpt-launches-in-response-to-elon-musks-tweet/",
+            "urlToImage": "https://finbold.com/app/uploads/2023/02/ChatGPT-alternative-‘TruthGPT-launches-in-response-to-Elon-Musks-tweet.jpg",
+            "publishedAt": "2023-02-20T15:13:50Z",
+            "content": "After Twitter (NYSE: TWTR) CEO Elon Musk jokingly tweeted that what we need is TruthGPT as a jab at the text-based artificial intelligence (AI) platform ChatGPT that allegedly refuses to answer certa… [+2379 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "businessinsider.com",
+            "title": "Tesla driver killed, passenger injured after crashing into parked fire truck on California freeway",
+            "description": "A Tesla hit a fire truck that was parked and blocking lanes on a California freeway early Saturday morning. • The driver was killed, one passenger was hospitalized, and four firefighters were treated for minor injuries. • It is currently unknown what caused t…",
+            "url": "https://biztoc.com/x/cb8835364f92900d",
+            "urlToImage": "https://c.biztoc.com/p/cb8835364f92900d/og.webp",
+            "publishedAt": "2023-02-20T15:04:07Z",
+            "content": "A Tesla hit a fire truck that was parked and blocking lanes on a California freeway early Saturday morning.The driver was killed, one passenger was hospitalized, and four firefighters were treated fo… [+271 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Headlines"
+            },
+            "author": "Hisan Kidwai",
+            "title": "Amazon employees would return to office starting May 1st",
+            "description": "Following the pandemic, many companies, including Amazon, have continued to offer their employees the flexibility of working from home. But according to a new blog post by CEO Andy Jassy, Amazon’s corporate and tech employees would have to return to the offic…",
+            "url": "https://www.androidheadlines.com/2023/02/amazon-employees-would-return-to-office-starting-may-1st.html",
+            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2022/03/Amazon-Logo-New.jpg",
+            "publishedAt": "2023-02-20T15:00:51Z",
+            "content": "Amazon / Amazon employees would return to office starting May 1st\r\nFollowing the pandemic, many companies, including Amazon, have continued to offer their employees the flexibility of working from ho… [+1748 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Gary Drenik, Contributor, \n Gary Drenik, Contributor\n https://www.forbes.com/sites/garydrenik/",
+            "title": "Forecasting The March CPI With CloudQuant’s Crystal Ball",
+            "description": "It’s mid-winter and there is talk of a resurgence of consumer spending and what implications that has on the prospects of the economy.  We caught up with Morgan Slade from CloudQuant to see what his seers make of an economy adrift.",
+            "url": "https://www.forbes.com/sites/garydrenik/2023/02/20/forecasting-the-march-cpi-with-cloudquants-crystal-ball/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63f11a2472d2e81410b8d5ae/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-02-20T15:00:00Z",
+            "content": "Crystal Ball\r\nAdobeStock_266069534\r\nIts mid-winter and the world is aloft with talk of the resurgence of consumer spending and what implications that has on the prospects of the world economy and the… [+8934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "yahoo.com",
+            "title": "Tesla battles with union organizers, Zoox hits the road and Zeekr scores more capital",
+            "description": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here — just click The Station — to receive the full edition of the newsletter every weekend in your inbox. Subscribe for free. Welcome back to The Station, your central hub for…",
+            "url": "https://biztoc.com/x/7ebc0505dd6cb07a",
+            "urlToImage": "https://c.biztoc.com/p/7ebc0505dd6cb07a/og.webp",
+            "publishedAt": "2023-02-20T14:36:05Z",
+            "content": "The Station is a weekly newsletter dedicated to all things transportation. Sign up here just click The Station to receive the full edition of the newsletter every weekend in your inbox. Subscribe for… [+283 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pythonlibrary.org"
+            },
+            "author": "Mike",
+            "title": "Mike Driscoll: PyDev of the Week: Mark Dufour",
+            "description": "This week we welcome Mark Dufour as our PyDev of the Week! Mark is the creator of Shedskin, which \"is an experimental compiler, that can translate pure,",
+            "url": "https://www.blog.pythonlibrary.org/2023/02/20/pydev-of-the-week-mark-dufour/",
+            "urlToImage": "https://www.blog.pythonlibrary.org/wp-content/uploads/2016/03/cropped-cropped-cropped-mvp-1.png",
+            "publishedAt": "2023-02-20T13:30:35Z",
+            "content": "This week we welcome Mark Dufour as our PyDev of the Week! Mark is the creator of Shedskin, which “is an experimental compiler, that can translate pure, but implicitly statically typed Python (3.8+) … [+5313 chars]"
+        }
+    ]
+}
